@@ -19,16 +19,11 @@ Este proyecto simula un sistema de gestión de libros, con funcionalidades para:
 ---
 
 ## Tecnologías utilizadas
-- Java 8+
 - IntelliJ IDEA
-- (Opcional) Lombok (eliminado en esta versión)
+- Lombok (eliminado en este tp)
 
 ---
 
-## Estructura del proyecto
-
-
----
 
 ## Cómo ejecutar el proyecto
 1. Clona este repositorio o descarga los archivos.
