@@ -26,17 +26,20 @@ Este proyecto simula un sistema de gestión de libros, con funcionalidades para:
 
 
 ## Cómo ejecutar el proyecto
-1. Clona este repositorio o descarga los archivos.
-2. Abre el proyecto en **IntelliJ IDEA**.
+1. Clonar este repositorio o descarga los archivos.
+2. Abre el proyecto en IntelliJ IDEA.
 3. Compila y ejecuta la clase `Main`.
 
 ---
 
 ## Notas
-- Este proyecto **no depende de Lombok** (se reemplazó por código Java estándar).
-- Si usas Lombok en otros proyectos, asegúrate de tenerlo configurado en IntelliJ.
+- Este proyecto no depende de Lombok.
 
 ---
 
 ## Autores
-- Lucía Carmona
+- Adolfo Quintana 
+- Belen Carmona
+- Franco D'Agostino
+- Luciano Paulucci
+- Juan Nieves
